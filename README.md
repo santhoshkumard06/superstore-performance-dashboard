@@ -5,7 +5,7 @@ A 2 page Business Intelligence dashboard built on the Superstore Sales dataset, 
 | | |
 |---|---|
 | **Tool** | Power BI (design replicated 1:1 as a custom analytics build) |
-| **Dataset** | Sample Superstore (Kaggle) — 9,994 line items · 5,009 orders · 793 customers · FY2014–2017 |
+| **Dataset** | Sample Superstore (Kaggle) 9,994 line items · 5,009 orders · 793 customers · FY2014–2017 |
 | **Pages** | Overview (Page 1) · Products & Profitability (Page 2) |
 | **Core skill demonstrated** | KPI design, YoY variance analysis, diverging bar charts, donut/composition charts, discount sensitivity analysis |
 
