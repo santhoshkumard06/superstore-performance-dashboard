@@ -49,7 +49,7 @@ This dashboard uses **only features that exist natively in Power BI Desktop** no
 | Overview / Products tab nav | **Bookmarks + Buttons** (standard custom navigation pattern) |
 | Year / Region filters | **Slicer** visual, "Tile" layout style |
 
-Every number is also independently verified against the raw 9,994-row dataset — see the business story below.
+Every number is also independently verified against the raw 9,994-row dataset see the business story below.
 
 ---
 
