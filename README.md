@@ -40,13 +40,13 @@ This dashboard uses **only features that exist natively in Power BI Desktop** no
 | Visual | Power BI Feature |
 |---|---|
 | KPI cards | **Card** visual + custom theme accent colors; rounded corners & shadow via *Format visual → Effects* |
-| Page background | Full-page **rectangle Shape** with 2-color **gradient fill**, sent to back |
-| Revenue by Region / Category Mix donut / Margin by Category | **Clustered column** / **Donut** charts using **Data colors** — one solid color per category (standard custom theme) |
+| Page background | Full page **rectangle Shape** with 2 color **gradient fill**, sent to back |
+| Revenue by Region / Category Mix donut / Margin by Category | **Clustered column** / **Donut** charts using **Data colors** one solid color per category (standard custom theme) |
 | Monthly Sales Trend | **Line chart** with **Area** fill at reduced transparency |
-| Profit by Sub-Category | **Bar chart**, *Format visual → Data colors → Format by: **Color scale (Diverging)*** — Minimum = coral, Center = slate, Maximum = teal |
+| Profit by Sub Category | **Bar chart**, *Format visual → Data colors → Format by: **Color scale (Diverging)*** Minimum = coral, Center = slate, Maximum = teal |
 | The Discount Cliff | Same **Diverging color scale**, applied to a bar chart of *Profit Margin %* by *Discount Tier* |
-| Top 10 Products | **Bar chart**, *Color scale (Sequential)* — Minimum = light indigo, Maximum = deep indigo |
-| Overview / Products tab nav | **Bookmarks + Buttons** (standard custom-navigation pattern) |
+| Top 10 Products | **Bar chart**, *Color scale (Sequential)* Minimum = light indigo, Maximum = deep indigo |
+| Overview / Products tab nav | **Bookmarks + Buttons** (standard custom navigation pattern) |
 | Year / Region filters | **Slicer** visual, "Tile" layout style |
 
 Every number is also independently verified against the raw 9,994-row dataset — see the business story below.
